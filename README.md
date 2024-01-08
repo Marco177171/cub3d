@@ -12,7 +12,7 @@ The primary objective of this project is to replicate the raycasting engine used
 - **First-Person View**: Simulating a first-person view of the environment.
 - **Wall Textures**: Applying textures to walls for realistic visuals.
 - **Movement and Interaction**: Implementing player movement and interaction with the environment.
-- **Bonus Part**: Implementing player with mouse (accelerometer) and top-view level map.
+- **Bonus Part**: Player orientation with mouse (accelerometer) and top-view level map.
 
 ## Contacts
 
