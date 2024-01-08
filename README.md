@@ -21,5 +21,5 @@ The primary objective of this project is to replicate the raycasting engine used
 
 Thank you for exploring Cub3D! I hope this project offers a nostalgic and engaging experience reminiscent of the original Doom game.
 
-Have a nice day!
+Have a nice day!  
 Marco Sebastiani
